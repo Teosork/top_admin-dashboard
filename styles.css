@@ -75,14 +75,6 @@ img {
     gap: 20px;
 }
 
-.larger-profile-picture {
-    grid-column: 1;
-}
-
-.greeting-section {
-    grid-column: 2;
-}
-
 .buttons-section {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
