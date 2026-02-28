@@ -131,6 +131,29 @@ img {
     align-items: center;
     gap: 20px;
     padding: 1rem 2rem;
+    justify-content: space-between;
+}
+
+.left-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.header .bottom-layer p{
+    font-weight: normal;
+    font-size: 16px;
+    margin: 0;
+}
+
+.header .bottom-layer p span {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.buttons-group {
+    display: flex;
+    gap: 20px;
 }
 
 .larger-profile-picture {
